@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sadiq-idris
 - 👀 I’m interested in tech and programming
-- 🌱 I’m currently learning JavaScript and flask
+-  i'm currently learning react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email me (sadiqidris888@gmail.com)
 
